@@ -3,6 +3,8 @@
 Herzlich Willkommen auf der GitHub Organisation für alle privaten Ausbildungsprojekte die mein Profil nur so zumüllen würden, also ist nun hier alles zu finden.
 Bei Fragen melde dich gerne bei mir per Mail! [schule@levi-hessmann.de](mailto:schule@levi-hessmann.de).
 
+> Fullstack Entwickler seit 2016, Projektleiter mehrerer Projekte seit 2018
+
 ### Tech-Stack
 
 <p align="center">
